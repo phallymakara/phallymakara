@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PHALLY MAKARA PHALLY MAKARA</h1>
+<h1 align="center">Hi 👋, I'm PHALLY MAKARA</h1>
 <h3 align="center">I'm a data science student at the Institute of Technology of Cambodia and also work as a mobile developer</h3>
 
 - 📫 How to reach me **phallymakara01@gmail.com**
